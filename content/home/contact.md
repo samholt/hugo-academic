@@ -25,28 +25,31 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: samuel.holt.direct@gmail.com
+  # phone: 
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Computational Mathematical Sciences, Wilberforce road
+    city: Cambridge
+    region: Cambridgeshire
+    # postcode: '94305'
+    country: United Kingdom
+    country_code: UK
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: CMS reception
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Monday 10:00 to 18:00'
+    - 'Tuesday 10:00 to 18:00'
+    - 'Wednesday 10:00 to 18:00'
+    - 'Thursday 10:00 to 18:00'
+    - 'Friday 10:00 to 18:00'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/samianholt'
     - icon: video
       icon_pack: fas
       name: Zoom Me
